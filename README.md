@@ -1,1 +1,1 @@
-# hello-github
+Learning Applied AI Engineering.
